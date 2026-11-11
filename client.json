@@ -1,0 +1,10 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/Lob0Garou/fq-cimd-probe@main/client.json",
+  "client_name": "FloQast QA Client",
+  "client_uri": "https://example.com/",
+  "redirect_uris": ["https://example.com/cb"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "read write"
+}
